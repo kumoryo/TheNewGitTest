@@ -133,6 +133,7 @@
 		37A0550215E3421D0085422F /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 37A0550115E3421D0085422F /* AppDelegate.m */; };
 		37A0550515E3421D0085422F /* HelloWorldLayer.m in Sources */ = {isa = PBXBuildFile; fileRef = 37A0550415E3421D0085422F /* HelloWorldLayer.m */; };
 		37A0550815E3421D0085422F /* IntroLayer.m in Sources */ = {isa = PBXBuildFile; fileRef = 37A0550715E3421D0085422F /* IntroLayer.m */; };
+		37A0551015E342B50085422F /* GitTest.m in Sources */ = {isa = PBXBuildFile; fileRef = 37A0550F15E342B50085422F /* GitTest.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -398,6 +399,8 @@
 		37A0550415E3421D0085422F /* HelloWorldLayer.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = HelloWorldLayer.m; sourceTree = "<group>"; };
 		37A0550615E3421D0085422F /* IntroLayer.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = IntroLayer.h; sourceTree = "<group>"; };
 		37A0550715E3421D0085422F /* IntroLayer.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = IntroLayer.m; sourceTree = "<group>"; };
+		37A0550E15E342B50085422F /* GitTest.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GitTest.h; sourceTree = "<group>"; };
+		37A0550F15E342B50085422F /* GitTest.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GitTest.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -462,6 +465,8 @@
 				37A0550415E3421D0085422F /* HelloWorldLayer.m */,
 				37A0550615E3421D0085422F /* IntroLayer.h */,
 				37A0550715E3421D0085422F /* IntroLayer.m */,
+				37A0550E15E342B50085422F /* GitTest.h */,
+				37A0550F15E342B50085422F /* GitTest.m */,
 				37A0538915E3421B0085422F /* Resources */,
 				37A053A315E3421B0085422F /* libs */,
 				37A054FC15E3421D0085422F /* Supporting Files */,
@@ -1009,6 +1014,7 @@
 				37A0550215E3421D0085422F /* AppDelegate.m in Sources */,
 				37A0550515E3421D0085422F /* HelloWorldLayer.m in Sources */,
 				37A0550815E3421D0085422F /* IntroLayer.m in Sources */,
+				37A0551015E342B50085422F /* GitTest.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
